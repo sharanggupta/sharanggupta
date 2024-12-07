@@ -27,8 +27,8 @@ My name is Sharang Gupta and I'm a software developer working for THG remotely f
 <a href="https://github.com/sharanggupta/batch-data-migration">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharanggupta&repo=batch-data-migration&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/sharanggupta/MSc-Thesis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharanggupta&repo=MSc-Thesis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/sharanggupta/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharanggupta&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/sharanggupta/trade-platform">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharanggupta&repo=trade-platform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />

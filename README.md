@@ -14,24 +14,21 @@ My name is Sharang Gupta and I'm a software developer working for THG remotely f
 ![](https://img.shields.io/badge/Editor-Intellij%20Idea-informational?style=flat&logo=intellijidea&logoColor=white&color=purple)
 
 
-## &#x1f4c8; GitHub Stats
+## 📊 GitHub Stats
 <img align="left" src="https://github-readme-stats-xi-henna-31.vercel.app/api?username=sharanggupta&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
-
 <img align="left" src="https://github-readme-stats-xi-henna-31.vercel.app/api/top-langs/?username=sharanggupta&layout=compact&theme=github_dark&langs_count=5" />
-
 <br clear="left" />
 
 ## 🏆 Pinned Repos
-<img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=eazybank&theme=github_dark" />
-<img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=batch-data-migration&theme=github_dark" />
-<img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=oauth2product&theme=github_dark" />
-<img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=thiasil&theme=github_dark" />
+| <img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=eazybank&theme=github_dark" /> | <img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=batch-data-migration&theme=github_dark" /> |
+|---|---|
+| <img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=oauth2product&theme=github_dark" /> | <img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=thiasil&theme=github_dark" /> |
 
 ## 🔥 Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharanggupta&theme=dark" />
 
 ## 🎖 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sharanggupta&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sharanggupta&theme=dark&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- links to social media icons -->
 

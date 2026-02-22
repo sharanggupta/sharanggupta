@@ -15,24 +15,23 @@ My name is Sharang Gupta and I'm a software developer working for THG remotely f
 
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/sharanggupta/sharanggupta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanggupta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&hide=Jupyter%20Notebook&layout=donut" />
-</a>
-<a href="https://github.com/sharanggupta/sharanggupta">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=sharanggupta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sharang's GitHub Stats" />
-</a>
-<a href="https://github.com/sharanggupta/thiasil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharanggupta&repo=thiasil&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/sharanggupta/batch-data-migration">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharanggupta&repo=batch-data-migration&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/sharanggupta/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharanggupta&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/sharanggupta/trade-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharanggupta&repo=trade-platform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<img align="left" src="https://github-readme-stats-xi-henna-31.vercel.app/api?username=sharanggupta&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
+
+<img align="left" src="https://github-readme-stats-xi-henna-31.vercel.app/api/top-langs/?username=sharanggupta&layout=compact&theme=github_dark&langs_count=5" />
+
+<br clear="left" />
+
+## 🏆 Pinned Repos
+<img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=eazybank&theme=github_dark" />
+<img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=batch-data-migration&theme=github_dark" />
+<img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=oauth2product&theme=github_dark" />
+<img src="https://github-readme-stats-xi-henna-31.vercel.app/api/pin/?username=sharanggupta&repo=thiasil&theme=github_dark" />
+
+## 🔥 Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharanggupta&theme=dark" />
+
+## 🎖 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=sharanggupta&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- links to social media icons -->
 

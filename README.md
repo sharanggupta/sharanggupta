@@ -1,4 +1,4 @@
-[![Header](https://github.com/sharanggupta/sharanggupta/blob/main/header.jpeg?raw=true "Header")](https://www.sharanggupta.dev)
+[![Header](https://github.com/sharanggupta/sharanggupta/blob/main/header.png?raw=true "Header")](https://www.sharanggupta.dev)
 
 # Hello, folks! <img src="https://github.com/sharanggupta/sharanggupta/blob/main/wave.gif?raw=true" width="30px">
 

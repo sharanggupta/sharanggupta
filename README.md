@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Java, Spring, TDD. I fix the libraries Java teams depend on." src="assets/banner-light.svg">
+  <img alt="Java, Spring, TDD. Java and Spring, built test-first." src="assets/banner-light.svg">
 </picture>
 
 Software developer at THG in Bournemouth, England. MSc Computing Science (Distinction), University of Southampton.
 
-I work mostly in Java and Spring. I like fixing bugs in the libraries Java teams depend on, and writing about TDD and architecture with small apps that each demonstrate exactly one thing.
+I work mostly in Java and Spring, test-first. Lately I've been sending fixes upstream to open-source libraries I use, and writing up what I learn with small apps that each demonstrate exactly one thing.
 
 [Website](https://www.sharanggupta.dev) · [Writing](https://sharanggupta.medium.com) · [LinkedIn](https://www.linkedin.com/in/sharanggupta/)
 

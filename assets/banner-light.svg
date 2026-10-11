@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-labelledby="t d">
-  <title id="t">Java, Spring, test-driven</title>
-  <desc id="d">A hexagon with a passing test at its core, surrounded by adapters, beside the text: I fix the libraries Java teams depend on.</desc>
+  <title id="t">Java, Spring, TDD</title>
+  <desc id="d">A hexagon with a passing test at its core, surrounded by adapters, beside the text: Java and Spring, built test-first.</desc>
   <defs>
     <radialGradient id="glow" cx="0.775" cy="0.500" r="0.42">
       <stop offset="0" stop-color="#0f6e73" stop-opacity="0.16"/>
@@ -25,10 +25,10 @@
 
   <text x="64" y="92" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" letter-spacing="3" fill="#0f6e73">JAVA · SPRING · TDD</text>
   <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="650" fill="#1f2328" letter-spacing="-0.5">
-    <tspan x="64" y="148">I fix the libraries</tspan>
-    <tspan x="64" y="198">Java teams depend on.</tspan>
+    <tspan x="64" y="148">Java and Spring,</tspan>
+    <tspan x="64" y="198">built test-first.</tspan>
   </text>
-  <text x="64" y="238" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">Then I write each one up with a small app that shows exactly one thing.</text>
+  <text x="64" y="238" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">Working examples that each show exactly one thing.</text>
 
   <g>
     <polygon points="930.0,48.0 1009.7,94.0 1009.7,186.0 930.0,232.0 850.3,186.0 850.3,94.0" fill="#0f6e73" fill-opacity=".07" stroke="#0f6e73" stroke-width="2" stroke-linejoin="round"/>

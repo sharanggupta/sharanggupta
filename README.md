@@ -29,7 +29,6 @@ More are in review: [open pull requests](https://github.com/pulls?q=is%3Apr+auth
 
 ## Selected projects
 
-- **[eventcore](https://github.com/sharanggupta/eventcore)**: a self-hosted event audit log with signed, retried webhook delivery. Java, TimescaleDB, CI.
 - **[hexagonal-orders](https://github.com/sharanggupta/hexagonal-orders)**: a Java 21 walk from controller-service-repository to hexagonal architecture, one failing test at a time. Module boundaries are enforced by the build.
 - **[flight-search](https://github.com/sharanggupta/flight-search)**: a Spring Boot REST API built test-first with a hexagon that never depends on the outside at compile time.
 - **[eazybank](https://github.com/sharanggupta/eazybank)**: reactive Spring Boot microservices with an API gateway and distributed tracing.

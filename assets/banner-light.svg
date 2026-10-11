@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-labelledby="t d">
+  <title id="t">Java, Spring, test-driven</title>
+  <desc id="d">A hexagon with a passing test at its core, surrounded by adapters, beside the text: I fix the libraries Java teams depend on.</desc>
+  <defs>
+    <radialGradient id="glow" cx="0.775" cy="0.500" r="0.42">
+      <stop offset="0" stop-color="#0f6e73" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0f6e73" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#d1d9e0"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0.35" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="m"><rect width="1200" height="280" fill="url(#fade)"/></mask>
+    <clipPath id="card"><rect width="1200" height="280" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="280" fill="#f6f8fa"/>
+    <rect width="1200" height="280" fill="url(#dots)" mask="url(#m)"/>
+    <rect width="1200" height="280" fill="url(#glow)"/>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="278.5" rx="11.5" fill="none" stroke="#d1d9e0" stroke-width="1.5"/>
+
+  <text x="64" y="92" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" letter-spacing="3" fill="#0f6e73">JAVA · SPRING · TDD</text>
+  <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="650" fill="#1f2328" letter-spacing="-0.5">
+    <tspan x="64" y="148">I fix the libraries</tspan>
+    <tspan x="64" y="198">Java teams depend on.</tspan>
+  </text>
+  <text x="64" y="238" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">Then I write each one up with a small app that shows exactly one thing.</text>
+
+  <g>
+    <polygon points="930.0,48.0 1009.7,94.0 1009.7,186.0 930.0,232.0 850.3,186.0 850.3,94.0" fill="#0f6e73" fill-opacity=".07" stroke="#0f6e73" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="969.8" y1="71.0" x2="982.8" y2="48.5" stroke="#0f6e73" stroke-opacity=".55" stroke-width="1.5"/><circle cx="988.8" cy="38.1" r="7" fill="#f6f8fa" stroke="#0f6e73" stroke-opacity=".8" stroke-width="1.5"/><circle cx="969.8" cy="71.0" r="3.5" fill="#0f6e73"/><line x1="1009.7" y1="140.0" x2="1035.7" y2="140.0" stroke="#0f6e73" stroke-opacity=".55" stroke-width="1.5"/><circle cx="1047.7" cy="140.0" r="7" fill="#f6f8fa" stroke="#0f6e73" stroke-opacity=".8" stroke-width="1.5"/><circle cx="1009.7" cy="140.0" r="3.5" fill="#0f6e73"/><line x1="969.8" y1="209.0" x2="982.8" y2="231.5" stroke="#0f6e73" stroke-opacity=".55" stroke-width="1.5"/><circle cx="988.8" cy="241.9" r="7" fill="#f6f8fa" stroke="#0f6e73" stroke-opacity=".8" stroke-width="1.5"/><circle cx="969.8" cy="209.0" r="3.5" fill="#0f6e73"/><line x1="890.2" y1="209.0" x2="877.2" y2="231.5" stroke="#0f6e73" stroke-opacity=".55" stroke-width="1.5"/><circle cx="871.2" cy="241.9" r="7" fill="#f6f8fa" stroke="#0f6e73" stroke-opacity=".8" stroke-width="1.5"/><circle cx="890.2" cy="209.0" r="3.5" fill="#0f6e73"/><line x1="850.3" y1="140.0" x2="824.3" y2="140.0" stroke="#0f6e73" stroke-opacity=".55" stroke-width="1.5"/><circle cx="812.3" cy="140.0" r="7" fill="#f6f8fa" stroke="#0f6e73" stroke-opacity=".8" stroke-width="1.5"/><circle cx="850.3" cy="140.0" r="3.5" fill="#0f6e73"/><line x1="890.2" y1="71.0" x2="877.2" y2="48.5" stroke="#0f6e73" stroke-opacity=".55" stroke-width="1.5"/><circle cx="871.2" cy="38.1" r="7" fill="#f6f8fa" stroke="#0f6e73" stroke-opacity=".8" stroke-width="1.5"/><circle cx="890.2" cy="71.0" r="3.5" fill="#0f6e73"/>
+    <polygon points="930.0,92.0 971.6,116.0 971.6,164.0 930.0,188.0 888.4,164.0 888.4,116.0" fill="#0f6e73" fill-opacity=".18" stroke="#0f6e73" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M915 141 L926 152 L947 128" fill="none" stroke="#1a7f37" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

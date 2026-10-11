@@ -1,4 +1,8 @@
-# Sharang Gupta
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Java, Spring, TDD. I fix the libraries Java teams depend on." src="assets/banner-light.svg">
+</picture>
 
 Software developer at THG in Bournemouth, England. MSc Computing Science (Distinction), University of Southampton.
 

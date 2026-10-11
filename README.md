@@ -4,7 +4,7 @@
   <img alt="Java, Spring, TDD. Java and Spring, built test-first." src="assets/banner-light.svg">
 </picture>
 
-Software developer at THG in Bournemouth, England. MSc Computer Science (Distinction), University of Southampton.
+Software engineer at THG in Bournemouth, England. MSc Computer Science (Distinction), University of Southampton.
 
 I work mostly in Java and Spring, test-first. Lately I've been sending fixes upstream to open-source libraries I use, and writing up what I learn with small apps that each demonstrate exactly one thing.
 
@@ -31,7 +31,7 @@ More are in review: [open pull requests](https://github.com/pulls?q=is%3Apr+auth
 
 - **[orderly](https://github.com/sharanggupta/orderly)** (work in progress): a Java 21 walk from controller-service-repository to hexagonal architecture, one failing test at a time. Module boundaries are enforced by the build.
 - **[flight-search](https://github.com/sharanggupta/flight-search)**: a Spring Boot REST API built test-first with a hexagon that never depends on the outside at compile time.
-- **[eazybank](https://github.com/sharanggupta/eazybank)**: reactive Spring Boot microservices with an API gateway and distributed tracing.
+- **[eazybank](https://github.com/sharanggupta/eazybank)**: Spring Boot microservices with an API gateway, deployed on Kubernetes, with metrics, logs and distributed tracing (Prometheus, Grafana, Loki, Tempo).
 - **[oauth2product](https://github.com/sharanggupta/oauth2product)**: OAuth2 resource server and client with Spring Boot, built test-first. The article series below follows this code.
 
 ## Writing

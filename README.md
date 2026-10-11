@@ -4,7 +4,7 @@
   <img alt="Java, Spring, TDD. Java and Spring, built test-first." src="assets/banner-light.svg">
 </picture>
 
-Software developer at THG in Bournemouth, England. MSc Computing Science (Distinction), University of Southampton.
+Software developer at THG in Bournemouth, England. MSc Computer Science (Distinction), University of Southampton.
 
 I work mostly in Java and Spring, test-first. Lately I've been sending fixes upstream to open-source libraries I use, and writing up what I learn with small apps that each demonstrate exactly one thing.
 
